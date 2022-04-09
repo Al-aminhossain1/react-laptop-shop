@@ -3,36 +3,36 @@
         "id": 1,
         "name": "hablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 4.1
+        "rimeng": "3.9 star"
     },
     {
         "id": 2,
-        "name": "hablu",
+        "name": "kablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 4.4
+        "rimeng": " 5.3 star"
     },
     {
         "id": 3,
-        "name": "hablu",
+        "name": "Mablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 5
+        "rimeng": " 4.7 star"
     },
     {
         "id": 4,
-        "name": "hablu",
+        "name": "Lablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 5.7
+        "rimeng": " 5.3 star"
     },
     {
         "id": 5,
-        "name": "hablu",
+        "name": "Jablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 3.3
+        "rimeng": " 4.3 star"
     },
     {
         "id": 6,
-        "name": "hablu",
+        "name": "gablu",
         "review": "Ei Laptop Khub valo ekta laptop......",
-        "rimeng": 4.7
+        "rimeng": "4.7 star"
     }
 ]
